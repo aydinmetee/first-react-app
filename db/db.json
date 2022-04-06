@@ -1,0 +1,836 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "categoryId": 6,
+            "productName": "Mufutau",
+            "quantityPerUnit": "dui. Fusce",
+            "unitPrice": "$79.53",
+            "unitsInStock": 23
+        },
+        {
+            "id": 2,
+            "categoryId": 5,
+            "productName": "Kareem",
+            "quantityPerUnit": "faucibus. Morbi",
+            "unitPrice": "$82.13",
+            "unitsInStock": 30
+        },
+        {
+            "id": 3,
+            "categoryId": 3,
+            "productName": "Mechelle",
+            "quantityPerUnit": "placerat velit.",
+            "unitPrice": "$21.86",
+            "unitsInStock": 71
+        },
+        {
+            "id": 4,
+            "categoryId": 1,
+            "productName": "Kennedy",
+            "quantityPerUnit": "vitae velit",
+            "unitPrice": "$15.28",
+            "unitsInStock": 71
+        },
+        {
+            "id": 5,
+            "categoryId": 2,
+            "productName": "Edan",
+            "quantityPerUnit": "blandit mattis.",
+            "unitPrice": "$50.83",
+            "unitsInStock": 97
+        },
+        {
+            "id": 6,
+            "categoryId": 2,
+            "productName": "Michelle",
+            "quantityPerUnit": "hendrerit. Donec",
+            "unitPrice": "$35.86",
+            "unitsInStock": 35
+        },
+        {
+            "id": 7,
+            "categoryId": 4,
+            "productName": "Isadora",
+            "quantityPerUnit": "mattis. Cras",
+            "unitPrice": "$68.70",
+            "unitsInStock": 67
+        },
+        {
+            "id": 8,
+            "categoryId": 5,
+            "productName": "Yvette",
+            "quantityPerUnit": "Phasellus dolor",
+            "unitPrice": "$20.18",
+            "unitsInStock": 50
+        },
+        {
+            "id": 9,
+            "categoryId": 4,
+            "productName": "Tamara",
+            "quantityPerUnit": "dui. Cras",
+            "unitPrice": "$52.02",
+            "unitsInStock": 26
+        },
+        {
+            "id": 10,
+            "categoryId": 4,
+            "productName": "Simone",
+            "quantityPerUnit": "tincidunt adipiscing.",
+            "unitPrice": "$65.24",
+            "unitsInStock": 91
+        },
+        {
+            "id": 11,
+            "categoryId": 1,
+            "productName": "Keiko",
+            "quantityPerUnit": "ac, feugiat",
+            "unitPrice": "$82.71",
+            "unitsInStock": 62
+        },
+        {
+            "id": 12,
+            "categoryId": 5,
+            "productName": "Zachery",
+            "quantityPerUnit": "volutpat. Nulla",
+            "unitPrice": "$85.89",
+            "unitsInStock": 69
+        },
+        {
+            "id": 13,
+            "categoryId": 4,
+            "productName": "Jacob",
+            "quantityPerUnit": "ut, sem.",
+            "unitPrice": "$10.96",
+            "unitsInStock": 26
+        },
+        {
+            "id": 14,
+            "categoryId": 1,
+            "productName": "Abra",
+            "quantityPerUnit": "magna sed",
+            "unitPrice": "$50.57",
+            "unitsInStock": 24
+        },
+        {
+            "id": 15,
+            "categoryId": 2,
+            "productName": "Brielle",
+            "quantityPerUnit": "vehicula aliquet",
+            "unitPrice": "$18.13",
+            "unitsInStock": 35
+        },
+        {
+            "id": 16,
+            "categoryId": 4,
+            "productName": "Renee",
+            "quantityPerUnit": "ipsum. Suspendisse",
+            "unitPrice": "$96.86",
+            "unitsInStock": 66
+        },
+        {
+            "id": 17,
+            "categoryId": 3,
+            "productName": "Herrod",
+            "quantityPerUnit": "Phasellus in",
+            "unitPrice": "$61.23",
+            "unitsInStock": 78
+        },
+        {
+            "id": 18,
+            "categoryId": 6,
+            "productName": "Erasmus",
+            "quantityPerUnit": "nec tempus",
+            "unitPrice": "$6.05",
+            "unitsInStock": 54
+        },
+        {
+            "id": 19,
+            "categoryId": 2,
+            "productName": "Alan",
+            "quantityPerUnit": "Curabitur massa.",
+            "unitPrice": "$63.65",
+            "unitsInStock": 56
+        },
+        {
+            "id": 20,
+            "categoryId": 5,
+            "productName": "Philip",
+            "quantityPerUnit": "Etiam gravida",
+            "unitPrice": "$5.45",
+            "unitsInStock": 99
+        },
+        {
+            "id": 21,
+            "categoryId": 4,
+            "productName": "Elaine",
+            "quantityPerUnit": "eu lacus.",
+            "unitPrice": "$52.95",
+            "unitsInStock": 84
+        },
+        {
+            "id": 22,
+            "categoryId": 3,
+            "productName": "Kamal",
+            "quantityPerUnit": "Curabitur dictum.",
+            "unitPrice": "$56.46",
+            "unitsInStock": 82
+        },
+        {
+            "id": 23,
+            "categoryId": 4,
+            "productName": "Ivan",
+            "quantityPerUnit": "Ut nec",
+            "unitPrice": "$62.02",
+            "unitsInStock": 79
+        },
+        {
+            "id": 24,
+            "categoryId": 3,
+            "productName": "Rhiannon",
+            "quantityPerUnit": "lectus ante",
+            "unitPrice": "$94.87",
+            "unitsInStock": 92
+        },
+        {
+            "id": 25,
+            "categoryId": 2,
+            "productName": "Dorian",
+            "quantityPerUnit": "est, vitae",
+            "unitPrice": "$93.55",
+            "unitsInStock": 66
+        },
+        {
+            "id": 26,
+            "categoryId": 1,
+            "productName": "Emi",
+            "quantityPerUnit": "dictum mi,",
+            "unitPrice": "$4.69",
+            "unitsInStock": 27
+        },
+        {
+            "id": 27,
+            "categoryId": 2,
+            "productName": "Karen",
+            "quantityPerUnit": "non, vestibulum",
+            "unitPrice": "$16.77",
+            "unitsInStock": 76
+        },
+        {
+            "id": 28,
+            "categoryId": 1,
+            "productName": "William",
+            "quantityPerUnit": "a, arcu.",
+            "unitPrice": "$6.54",
+            "unitsInStock": 51
+        },
+        {
+            "id": 29,
+            "categoryId": 2,
+            "productName": "Chase",
+            "quantityPerUnit": "neque. Morbi",
+            "unitPrice": "$12.62",
+            "unitsInStock": 48
+        },
+        {
+            "id": 30,
+            "categoryId": 2,
+            "productName": "Oscar",
+            "quantityPerUnit": "elementum, lorem",
+            "unitPrice": "$90.23",
+            "unitsInStock": 99
+        },
+        {
+            "id": 31,
+            "categoryId": 4,
+            "productName": "Ryan",
+            "quantityPerUnit": "eget lacus.",
+            "unitPrice": "$35.56",
+            "unitsInStock": 39
+        },
+        {
+            "id": 32,
+            "categoryId": 5,
+            "productName": "Kaitlin",
+            "quantityPerUnit": "nec enim.",
+            "unitPrice": "$75.34",
+            "unitsInStock": 84
+        },
+        {
+            "id": 33,
+            "categoryId": 4,
+            "productName": "Marny",
+            "quantityPerUnit": "nisi nibh",
+            "unitPrice": "$34.10",
+            "unitsInStock": 31
+        },
+        {
+            "id": 34,
+            "categoryId": 4,
+            "productName": "Wang",
+            "quantityPerUnit": "scelerisque dui.",
+            "unitPrice": "$30.17",
+            "unitsInStock": 41
+        },
+        {
+            "id": 35,
+            "categoryId": 4,
+            "productName": "Levi",
+            "quantityPerUnit": "iaculis, lacus",
+            "unitPrice": "$66.13",
+            "unitsInStock": 32
+        },
+        {
+            "id": 36,
+            "categoryId": 2,
+            "productName": "Ria",
+            "quantityPerUnit": "Sed diam",
+            "unitPrice": "$98.44",
+            "unitsInStock": 40
+        },
+        {
+            "id": 37,
+            "categoryId": 4,
+            "productName": "Daria",
+            "quantityPerUnit": "augue ac",
+            "unitPrice": "$12.56",
+            "unitsInStock": 54
+        },
+        {
+            "id": 38,
+            "categoryId": 3,
+            "productName": "Alfreda",
+            "quantityPerUnit": "vitae aliquam",
+            "unitPrice": "$22.15",
+            "unitsInStock": 46
+        },
+        {
+            "id": 39,
+            "categoryId": 3,
+            "productName": "Carter",
+            "quantityPerUnit": "lorem, auctor",
+            "unitPrice": "$58.23",
+            "unitsInStock": 23
+        },
+        {
+            "id": 40,
+            "categoryId": 5,
+            "productName": "Owen",
+            "quantityPerUnit": "ut, sem.",
+            "unitPrice": "$95.19",
+            "unitsInStock": 87
+        },
+        {
+            "id": 41,
+            "categoryId": 4,
+            "productName": "Slade",
+            "quantityPerUnit": "semper egestas,",
+            "unitPrice": "$16.06",
+            "unitsInStock": 92
+        },
+        {
+            "id": 42,
+            "categoryId": 4,
+            "productName": "Connor",
+            "quantityPerUnit": "diam. Proin",
+            "unitPrice": "$65.86",
+            "unitsInStock": 32
+        },
+        {
+            "id": 43,
+            "categoryId": 1,
+            "productName": "Deanna",
+            "quantityPerUnit": "Maecenas ornare",
+            "unitPrice": "$86.25",
+            "unitsInStock": 58
+        },
+        {
+            "id": 44,
+            "categoryId": 1,
+            "productName": "Jane",
+            "quantityPerUnit": "lacus. Quisque",
+            "unitPrice": "$26.08",
+            "unitsInStock": 98
+        },
+        {
+            "id": 45,
+            "categoryId": 1,
+            "productName": "Walker",
+            "quantityPerUnit": "vel lectus.",
+            "unitPrice": "$26.40",
+            "unitsInStock": 36
+        },
+        {
+            "id": 46,
+            "categoryId": 4,
+            "productName": "Quyn",
+            "quantityPerUnit": "eros non",
+            "unitPrice": "$62.83",
+            "unitsInStock": 21
+        },
+        {
+            "id": 47,
+            "categoryId": 4,
+            "productName": "Castor",
+            "quantityPerUnit": "in faucibus",
+            "unitPrice": "$81.99",
+            "unitsInStock": 83
+        },
+        {
+            "id": 48,
+            "categoryId": 5,
+            "productName": "Porter",
+            "quantityPerUnit": "adipiscing lacus.",
+            "unitPrice": "$98.00",
+            "unitsInStock": 99
+        },
+        {
+            "id": 49,
+            "categoryId": 1,
+            "productName": "Alvin",
+            "quantityPerUnit": "Donec tincidunt.",
+            "unitPrice": "$26.25",
+            "unitsInStock": 55
+        },
+        {
+            "id": 50,
+            "categoryId": 3,
+            "productName": "Tarik",
+            "quantityPerUnit": "ut, sem.",
+            "unitPrice": "$37.53",
+            "unitsInStock": 62
+        },
+        {
+            "id": 51,
+            "categoryId": 2,
+            "productName": "Whilemina",
+            "quantityPerUnit": "Suspendisse sagittis.",
+            "unitPrice": "$56.18",
+            "unitsInStock": 27
+        },
+        {
+            "id": 52,
+            "categoryId": 5,
+            "productName": "Gretchen",
+            "quantityPerUnit": "libero at",
+            "unitPrice": "$90.98",
+            "unitsInStock": 62
+        },
+        {
+            "id": 53,
+            "categoryId": 3,
+            "productName": "Patrick",
+            "quantityPerUnit": "ipsum sodales",
+            "unitPrice": "$73.57",
+            "unitsInStock": 93
+        },
+        {
+            "id": 54,
+            "categoryId": 6,
+            "productName": "Zelenia",
+            "quantityPerUnit": "Nulla semper",
+            "unitPrice": "$57.62",
+            "unitsInStock": 51
+        },
+        {
+            "id": 55,
+            "categoryId": 4,
+            "productName": "Dominic",
+            "quantityPerUnit": "non dui",
+            "unitPrice": "$61.46",
+            "unitsInStock": 31
+        },
+        {
+            "id": 56,
+            "categoryId": 4,
+            "productName": "Brock",
+            "quantityPerUnit": "sociis natoque",
+            "unitPrice": "$95.66",
+            "unitsInStock": 41
+        },
+        {
+            "id": 57,
+            "categoryId": 6,
+            "productName": "John",
+            "quantityPerUnit": "ac turpis",
+            "unitPrice": "$53.02",
+            "unitsInStock": 73
+        },
+        {
+            "id": 58,
+            "categoryId": 5,
+            "productName": "Unity",
+            "quantityPerUnit": "vitae purus",
+            "unitPrice": "$10.90",
+            "unitsInStock": 69
+        },
+        {
+            "id": 59,
+            "categoryId": 4,
+            "productName": "Gil",
+            "quantityPerUnit": "et magnis",
+            "unitPrice": "$84.50",
+            "unitsInStock": 34
+        },
+        {
+            "id": 60,
+            "categoryId": 4,
+            "productName": "Judah",
+            "quantityPerUnit": "et, lacinia",
+            "unitPrice": "$6.43",
+            "unitsInStock": 76
+        },
+        {
+            "id": 61,
+            "categoryId": 3,
+            "productName": "Kevin",
+            "quantityPerUnit": "tincidunt. Donec",
+            "unitPrice": "$50.36",
+            "unitsInStock": 28
+        },
+        {
+            "id": 62,
+            "categoryId": 6,
+            "productName": "Prescott",
+            "quantityPerUnit": "elementum at,",
+            "unitPrice": "$61.40",
+            "unitsInStock": 24
+        },
+        {
+            "id": 63,
+            "categoryId": 3,
+            "productName": "Vance",
+            "quantityPerUnit": "a feugiat",
+            "unitPrice": "$35.63",
+            "unitsInStock": 78
+        },
+        {
+            "id": 64,
+            "categoryId": 4,
+            "productName": "Aquila",
+            "quantityPerUnit": "semper egestas,",
+            "unitPrice": "$69.48",
+            "unitsInStock": 39
+        },
+        {
+            "id": 65,
+            "categoryId": 6,
+            "productName": "Edan",
+            "quantityPerUnit": "est ac",
+            "unitPrice": "$99.74",
+            "unitsInStock": 65
+        },
+        {
+            "id": 66,
+            "categoryId": 2,
+            "productName": "Dacey",
+            "quantityPerUnit": "mauris. Integer",
+            "unitPrice": "$38.89",
+            "unitsInStock": 61
+        },
+        {
+            "id": 67,
+            "categoryId": 5,
+            "productName": "Grady",
+            "quantityPerUnit": "feugiat. Sed",
+            "unitPrice": "$71.41",
+            "unitsInStock": 93
+        },
+        {
+            "id": 68,
+            "categoryId": 1,
+            "productName": "Chester",
+            "quantityPerUnit": "Integer id",
+            "unitPrice": "$87.93",
+            "unitsInStock": 71
+        },
+        {
+            "id": 69,
+            "categoryId": 5,
+            "productName": "Yael",
+            "quantityPerUnit": "cursus et,",
+            "unitPrice": "$7.55",
+            "unitsInStock": 40
+        },
+        {
+            "id": 70,
+            "categoryId": 6,
+            "productName": "Kermit",
+            "quantityPerUnit": "Ut semper",
+            "unitPrice": "$47.04",
+            "unitsInStock": 51
+        },
+        {
+            "id": 71,
+            "categoryId": 2,
+            "productName": "Xyla",
+            "quantityPerUnit": "blandit viverra.",
+            "unitPrice": "$72.13",
+            "unitsInStock": 75
+        },
+        {
+            "id": 72,
+            "categoryId": 2,
+            "productName": "Grace",
+            "quantityPerUnit": "sapien molestie",
+            "unitPrice": "$70.50",
+            "unitsInStock": 55
+        },
+        {
+            "id": 73,
+            "categoryId": 2,
+            "productName": "Madison",
+            "quantityPerUnit": "turpis nec",
+            "unitPrice": "$82.77",
+            "unitsInStock": 55
+        },
+        {
+            "id": 74,
+            "categoryId": 5,
+            "productName": "Lee",
+            "quantityPerUnit": "ac, feugiat",
+            "unitPrice": "$2.07",
+            "unitsInStock": 45
+        },
+        {
+            "id": 75,
+            "categoryId": 3,
+            "productName": "Yael",
+            "quantityPerUnit": "adipiscing non,",
+            "unitPrice": "$66.63",
+            "unitsInStock": 21
+        },
+        {
+            "id": 76,
+            "categoryId": 3,
+            "productName": "Colette",
+            "quantityPerUnit": "Cras sed",
+            "unitPrice": "$23.72",
+            "unitsInStock": 34
+        },
+        {
+            "id": 77,
+            "categoryId": 2,
+            "productName": "Anne",
+            "quantityPerUnit": "faucibus orci",
+            "unitPrice": "$57.44",
+            "unitsInStock": 97
+        },
+        {
+            "id": 78,
+            "categoryId": 6,
+            "productName": "Stacey",
+            "quantityPerUnit": "Suspendisse non",
+            "unitPrice": "$28.13",
+            "unitsInStock": 97
+        },
+        {
+            "id": 79,
+            "categoryId": 4,
+            "productName": "Burke",
+            "quantityPerUnit": "Quisque porttitor",
+            "unitPrice": "$80.24",
+            "unitsInStock": 62
+        },
+        {
+            "id": 80,
+            "categoryId": 5,
+            "productName": "Lewis",
+            "quantityPerUnit": "ad litora",
+            "unitPrice": "$78.78",
+            "unitsInStock": 31
+        },
+        {
+            "id": 81,
+            "categoryId": 2,
+            "productName": "Raphael",
+            "quantityPerUnit": "ornare. Fusce",
+            "unitPrice": "$74.55",
+            "unitsInStock": 63
+        },
+        {
+            "id": 82,
+            "categoryId": 3,
+            "productName": "Tucker",
+            "quantityPerUnit": "amet nulla.",
+            "unitPrice": "$69.74",
+            "unitsInStock": 74
+        },
+        {
+            "id": 83,
+            "categoryId": 2,
+            "productName": "Imogene",
+            "quantityPerUnit": "a neque.",
+            "unitPrice": "$95.90",
+            "unitsInStock": 85
+        },
+        {
+            "id": 84,
+            "categoryId": 2,
+            "productName": "Gillian",
+            "quantityPerUnit": "Suspendisse ac",
+            "unitPrice": "$24.48",
+            "unitsInStock": 91
+        },
+        {
+            "id": 85,
+            "categoryId": 5,
+            "productName": "Rosalyn",
+            "quantityPerUnit": "amet ornare",
+            "unitPrice": "$12.17",
+            "unitsInStock": 66
+        },
+        {
+            "id": 86,
+            "categoryId": 2,
+            "productName": "Fallon",
+            "quantityPerUnit": "augue ut",
+            "unitPrice": "$81.45",
+            "unitsInStock": 27
+        },
+        {
+            "id": 87,
+            "categoryId": 4,
+            "productName": "Kelly",
+            "quantityPerUnit": "purus. Maecenas",
+            "unitPrice": "$66.76",
+            "unitsInStock": 21
+        },
+        {
+            "id": 88,
+            "categoryId": 2,
+            "productName": "Ila",
+            "quantityPerUnit": "arcu vel",
+            "unitPrice": "$79.88",
+            "unitsInStock": 74
+        },
+        {
+            "id": 89,
+            "categoryId": 5,
+            "productName": "Kerry",
+            "quantityPerUnit": "nec ante",
+            "unitPrice": "$84.25",
+            "unitsInStock": 74
+        },
+        {
+            "id": 90,
+            "categoryId": 3,
+            "productName": "Heather",
+            "quantityPerUnit": "sit amet",
+            "unitPrice": "$78.00",
+            "unitsInStock": 78
+        },
+        {
+            "id": 91,
+            "categoryId": 4,
+            "productName": "Len",
+            "quantityPerUnit": "metus urna",
+            "unitPrice": "$63.14",
+            "unitsInStock": 54
+        },
+        {
+            "id": 92,
+            "categoryId": 4,
+            "productName": "Aidan",
+            "quantityPerUnit": "tristique pharetra.",
+            "unitPrice": "$80.61",
+            "unitsInStock": 87
+        },
+        {
+            "id": 93,
+            "categoryId": 4,
+            "productName": "Charles",
+            "quantityPerUnit": "pellentesque massa",
+            "unitPrice": "$63.94",
+            "unitsInStock": 92
+        },
+        {
+            "id": 94,
+            "categoryId": 3,
+            "productName": "Chaney",
+            "quantityPerUnit": "Cras pellentesque.",
+            "unitPrice": "$10.15",
+            "unitsInStock": 61
+        },
+        {
+            "id": 95,
+            "categoryId": 5,
+            "productName": "Raya",
+            "quantityPerUnit": "Nam interdum",
+            "unitPrice": "$76.33",
+            "unitsInStock": 45
+        },
+        {
+            "id": 96,
+            "categoryId": 2,
+            "productName": "Ivory",
+            "quantityPerUnit": "ridiculus mus.",
+            "unitPrice": "$31.22",
+            "unitsInStock": 85
+        },
+        {
+            "id": 97,
+            "categoryId": 5,
+            "productName": "Illiana",
+            "quantityPerUnit": "Donec nibh.",
+            "unitPrice": "$30.75",
+            "unitsInStock": 49
+        },
+        {
+            "id": 98,
+            "categoryId": 2,
+            "productName": "Yvonne",
+            "quantityPerUnit": "ligula elit,",
+            "unitPrice": "$40.14",
+            "unitsInStock": 24
+        },
+        {
+            "id": 99,
+            "categoryId": 4,
+            "productName": "Zephr",
+            "quantityPerUnit": "montes, nascetur",
+            "unitPrice": "$87.25",
+            "unitsInStock": 67
+        },
+        {
+            "id": 100,
+            "categoryId": 3,
+            "productName": "Nora",
+            "quantityPerUnit": "egestas ligula.",
+            "unitPrice": "$40.09",
+            "unitsInStock": 34
+        }
+    ],
+    "categories":[
+        {
+            "id": 1,
+            "categoryName": "Diam Vel Arcu LLP",
+            "seoUrl": "nytimes.com"
+        },
+        {
+            "id": 2,
+            "categoryName": "Egestas Aliquam Corporation",
+            "seoUrl": "nytimes.com"
+        },
+        {
+            "id": 3,
+            "categoryName": "Justo Ltd",
+            "seoUrl": "bbc"
+        },
+        {
+            "id": 4,
+            "categoryName": "Lectus Nullam Suscipit Institute",
+            "seoUrl": "yahoo.com"
+        },
+        {
+            "id": 5,
+            "categoryName": "Natoque Penatibus Foundation",
+            "seoUrl": "baidu.com"
+        },
+        {
+            "id": 6,
+            "categoryName": "Vestibulum Accumsan Neque Institute",
+            "seoUrl": "walmart.com"
+        }
+    ]
+}
