@@ -1,11 +1,7 @@
 import React, { Component } from "react";
-import { Table } from "reactstrap";
+import { Button, Table } from "reactstrap";
 
 export class ProductList extends Component {
-  componentDidMount() {
-    console.log(this.props);
-  }
-
   render() {
     return (
       <div>
@@ -16,20 +12,31 @@ export class ProductList extends Component {
           <thead>
             <tr>
               <th>#</th>
+              <th>Category ID</th>
               <th>Product Name</th>
               <th>Quantity Per Unit</th>
               <th>Unit Price</th>
               <th>Units In Stock</th>
+              <th>Actions</th>
             </tr>
           </thead>
           <tbody>
-            {this.props.products.map((element) => (
-              <tr key={element.id}>
-                <th scope="row">{element.id}</th>
-                <td>{element.productName}</td>
-                <td>{element.quantityPerUnit}</td>
-                <td>{element.unitPrice}</td>
-                <td>{element.unitsInStock}</td>
+            {this.props.products.map((product) => (
+              <tr key={product.id}>
+                <th scope="row">{product.id}</th>
+                <td>{product.categoryId}</td>
+                <td>{product.productName}</td>
+                <td>{product.quantityPerUnit}</td>
+                <td>{product.unitPrice}</td>
+                <td>{product.unitsInStock}</td>
+                <td>
+                  <Button
+                    color="info"
+                    onClick={() => this.props.addToCart(product)}
+                  >
+                    Add To Cart
+                  </Button>
+                </td>
               </tr>
             ))}
           </tbody>
